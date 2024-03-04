@@ -16,8 +16,6 @@ var wordRegex = regexp.MustCompile(`[a-zA-Z]+`)
 
 func mapDemo() {
 	var stocks map[string]int
-	sym := "TTWO"
-	price := stocks
 	fmt.Printf("%s -> ")
 }
 
